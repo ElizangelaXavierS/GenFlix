@@ -13,9 +13,9 @@
     <span><b>Link do projeto:</b></span> <a target="_blank" href='https://github.com/ElizangelaXavierS/GenFlix'>GenFlix</a>
     </div>
 <h5>Menu Principal</h5>
-<img src="./assets/preview/preview-menuPrincipal.PNG" alt="Foto de preview do menu inicial."/>
+<img src="./assets/preview/preview-menuPrincipal.png" alt="Foto de preview do menu inicial."/>
 <h5>Menu do Usuário</h5>
-<img  src="./assets/preview/preview-menuUsuario.PNG" alt="Foto de preview do menu do usuario."/>
+<img  src="./assets/preview/preview-menuUsuario.png" alt="Foto de preview do menu do usuario."/>
 </div>
 
 
