@@ -64,6 +64,14 @@ Apresentação do projeto:<a href="https://www.canva.com/design/DAFbDX4tYWA/1WVL
 </h4>
 <div>
 <h5>
+    Elizangela Xavier
+</h5>
+    <img width="150" src="./assets/participantes/Eli.jpg"/><br>
+    <a href="https://github.com/ElizangelaXavierS">GitHub</a><br>
+<a href="https://www.linkedin.com/in/elizangelaxavier/">Linkedin</a>
+</div>
+<div>
+<h5>
     Katiana Xavier
 </h5>
     <img width="150" src="./assets/participantes/Kati.jpeg"/><br>
@@ -101,15 +109,6 @@ Apresentação do projeto:<a href="https://www.canva.com/design/DAFbDX4tYWA/1WVL
     <img width="150" src="./assets/participantes/Luan.jpeg"/><br>
     <a href="https://github.com/LuanSilva94">GitHub</a><br>
 <a href="https://www.linkedin.com/in/luan-silva-6506a61a1/">Linkedin</a>
-</div>
-<div>
-<h5>
-    Elizangela Xavier
-</h5>
-    <img width="150" src="./assets/participantes/Eli.jpg"/><br>
-    <a href="https://github.com/ElizangelaXavierS">GitHub</a><br>
-<a href="https://www.linkedin.com/in/elizangelaxavier/">Linkedin</a>
-</div>
 </p>
 
 
